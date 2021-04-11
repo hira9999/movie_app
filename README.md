@@ -1,3 +1,3 @@
 # Movie App
 
-React JS fundamentals Course
+React JS fundamentals Course!
